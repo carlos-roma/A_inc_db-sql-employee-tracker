@@ -11,13 +11,16 @@
   * [Questions](#questions)
   
   ## Description
-  The Employee Management System CLI is a command-line application that simplifies managing departments, roles, and employees within an organization. It offers:    View departments, roles, and employees with detailed information.    Add new departments, roles, and employees seamlessly.    Update employee roles efficiently.
+  The Employee Management System CLI is a command-line application that simplifies managing departments, roles, and employees within an organization. It allows you to: view departments, roles, and employees with detailed information. Add new departments, roles, and employees seamlessly. Update employee roles efficiently.
   
   ## Installation
-  1)Clone the repo 2)Extract the files 3)Install dependecies 4)Run index.js
+  1)Clone the repo 
+  2)Extract the files
+  3)Install dependecies 
+  4)Run index.js
   
   ## How to Use This Application  
-  Press get started and write a new note, save by pressing the button on the upper right corner. To modify just select a saved note and perform your changes before saving again. Delete notes by  |    pressing the trash icon on the save notes. 
+  Start by running node index.js in your terminal or command prompt. Upon starting, you'll see a menu with options to view departments, roles, and employees, as well as to add new departments,        roles, or employees. Selecting an option prompts you to follow on-screen instructions to view data or input new information. To exit the application, choose the appropriate exit option from the     menu
   
   ## Screenshot
   ![Screenshot (302)](https://github.com/carlos-roma/A_inc_db-sql-employee-tracker/assets/68045584/98df8dfb-e222-433f-8a35-7445b7be8c92)
